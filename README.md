@@ -24,15 +24,15 @@
         app:tagVerticalPadding="4dp"
         app:tagVerticalSpace="8dp" />
 ```
-tagBackgroundColor：标签背景色；
-tagCornerRadius：标签圆角半径；
-tagHorizontalPadding：标签水平方向内边距；
-tagHorizontalSpace：标签之间的水平间距；
-tagStrokeColor：标签的描边颜色；
-tagTextColor：标签文字颜色；
-tagTextSize：标签文字大小；
-tagVerticalPadding：标签竖直方向内边距；
-tagVerticalSpace：标签之间的竖直边距。
+tagBackgroundColor：标签背景色；   
+tagCornerRadius：标签圆角半径；   
+tagHorizontalPadding：标签水平方向内边距；   
+tagHorizontalSpace：标签之间的水平间距；   
+tagStrokeColor：标签的描边颜色；   
+tagTextColor：标签文字颜色；   
+tagTextSize：标签文字大小；   
+tagVerticalPadding：标签竖直方向内边距；   
+tagVerticalSpace：标签之间的竖直边距。 
 
 ### 2、添加标签
 

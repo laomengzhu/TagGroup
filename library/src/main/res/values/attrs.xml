@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TagGroup">
+        <!--TagGroup attr-->
+        <attr name="tagHorizontalSpace" format="dimension|reference" />
+        <attr name="tagVerticalSpace" format="dimension|reference" />
+        <!--TagView attr-->
+        <attr name="tagHorizontalPadding" format="dimension|reference" />
+        <attr name="tagVerticalPadding" format="dimension|reference" />
+        <attr name="tagTextSize" format="dimension|reference" />
+        <attr name="tagTextColor" format="color|reference" />
+        <attr name="tagStrokeColor" format="color|reference" />
+        <attr name="tagBackgroundColor" format="color|reference" />
+        <attr name="tagCornerRadius" format="dimension|reference" />
+    </declare-styleable>
+</resources>

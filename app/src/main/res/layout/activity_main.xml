@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+
+    <com.xiaofan.taggroup.TagGroup
+        android:id="@+id/tagGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f08070"
+        app:tagBackgroundColor="#ffffff"
+        app:tagCornerRadius="6dp"
+        app:tagHorizontalPadding="8dp"
+        app:tagHorizontalSpace="8dp"
+        app:tagStrokeColor="#000000"
+        app:tagTextColor="#000000"
+        app:tagTextSize="16sp"
+        app:tagVerticalPadding="4dp"
+        app:tagVerticalSpace="8dp" />
+
+</RelativeLayout>
